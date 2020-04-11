@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b02a9be-826b-40f9-abb5-84f673c2b717" name="Default Changelist" comment="" />
+    <list default="true" id="1b02a9be-826b-40f9-abb5-84f673c2b717" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/48391540-33da-471a-9350-4425996bb7c3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/48391540-33da-471a-9350-4425996bb7c3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indeed/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/indeed/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +39,13 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="lpm: schema" type="ebfa3cd1:MariaImplModel$Schema" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="lpm" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="lpm: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="indeed_jobs: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
@@ -44,7 +56,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZJt4LEimecXQg14rK4FHhv5nsC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -53,7 +69,9 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,7 +95,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/indeed/__init__.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="PARAMETERS" value="--a $Prompt$" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -145,42 +163,51 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2132" y="89" width="1006" height="843" key="#Notifications" timestamp="1585773394003">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2132" y="89" width="1006" height="843" key="#Notifications/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1585773394003" />
     <state x="453" y="109" width="1004" height="841" key="#SQL_Dialects" timestamp="1584584071808">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="453" y="109" width="1004" height="841" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1584584071808" />
-    <state x="361" y="130" width="804" height="679" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584579602959">
-      <screen x="0" y="0" width="1536" height="960" />
+    <state x="2127" y="86" width="1061" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585234996376">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="361" y="130" width="804" height="679" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.960@0.0.1536.960" timestamp="1584579602959" />
+    <state x="2127" y="86" width="1061" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1585234996376" />
+    <state x="2387" y="77" width="530" height="723" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585234983718">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2387" y="77" width="530" height="723" key="#com.intellij.ide.macro.MacrosDialog/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1585234983718" />
     <state x="640" y="202" key="FileChooserDialogImpl" timestamp="1584584069617">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="640" y="202" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584584069617" />
-    <state width="1856" height="393" key="GridCell.Tab.0.bottom" timestamp="1584670728965">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1854" height="450" key="GridCell.Tab.0.bottom" timestamp="1585868086436">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1018" height="215" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1584579716564" />
-    <state width="1856" height="393" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584670728965" />
-    <state width="1856" height="486" key="GridCell.Tab.0.bottom/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1584654156003" />
-    <state width="1856" height="393" key="GridCell.Tab.0.center" timestamp="1584670728964">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1854" height="412" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585623432394" />
+    <state width="1854" height="450" key="GridCell.Tab.0.bottom/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1585868086436" />
+    <state width="1854" height="450" key="GridCell.Tab.0.center" timestamp="1585868086435">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1018" height="215" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1584579716562" />
-    <state width="1856" height="393" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584670728964" />
-    <state width="1856" height="486" key="GridCell.Tab.0.center/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1584654156002" />
-    <state width="1856" height="393" key="GridCell.Tab.0.left" timestamp="1584670728964">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1854" height="412" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585623432393" />
+    <state width="1854" height="450" key="GridCell.Tab.0.center/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1585868086435" />
+    <state width="1854" height="450" key="GridCell.Tab.0.left" timestamp="1585868086435">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1018" height="215" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1584579716561" />
-    <state width="1856" height="393" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584670728964" />
-    <state width="1856" height="486" key="GridCell.Tab.0.left/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1584654156002" />
-    <state width="1856" height="393" key="GridCell.Tab.0.right" timestamp="1584670728964">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1854" height="412" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585623432392" />
+    <state width="1854" height="450" key="GridCell.Tab.0.left/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1585868086435" />
+    <state width="1854" height="450" key="GridCell.Tab.0.right" timestamp="1585868086435">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1018" height="215" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1584579716563" />
-    <state width="1856" height="393" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584670728964" />
-    <state width="1856" height="486" key="GridCell.Tab.0.right/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1584654156002" />
+    <state width="1854" height="412" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585623432393" />
+    <state width="1854" height="450" key="GridCell.Tab.0.right/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1585868086435" />
     <state x="2121" y="55" width="1129" height="907" key="SettingsEditor" timestamp="1584748194523">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
@@ -205,26 +232,28 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="628" y="294" width="653" height="471" key="com.intellij.database.dbimport.ImportUtil.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584585542177" />
-    <state x="2258" y="-252" width="783" height="844" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1584640258238">
+    <state x="1680" y="0" width="1920" height="1080" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1585235422960">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="590" y="-72" width="783" height="844" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584585858813" />
-    <state x="2258" y="-252" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1584640258238" />
-    <state x="2287" y="157" key="com.intellij.ide.util.TipDialog" timestamp="1584975575091">
+    <state x="1680" y="0" width="1920" height="1080" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1585235422960" />
+    <state x="2283" y="97" key="com.intellij.ide.util.TipDialog" timestamp="1585777364839">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state x="489" y="210" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1584665726856" />
-    <state x="2287" y="157" key="com.intellij.ide.util.TipDialog/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1584975575091" />
-    <state x="608" y="62" width="693" height="935" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584584421514">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="487" y="180" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1585620814578" />
+    <state x="2283" y="97" key="com.intellij.ide.util.TipDialog/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1585777364839" />
+    <state x="2284" y="2" width="597" height="782" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585842664745">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="608" y="62" width="693" height="935" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584584421514" />
+    <state x="2284" y="2" width="597" height="782" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.1080.1536.960/0.30.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1585842664745" />
     <state x="506" y="276" width="609" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584579277806">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="506" y="276" width="609" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.960@0.0.1536.960" timestamp="1584579277806" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/indeedws$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1584670570103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/indeed" />
+    <SUITE FILE_PATH="coverage/py_indeed_scraper_json$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1585863552568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/indeed" />
+    <SUITE FILE_PATH="coverage/indeedws$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1585623432376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/indeed" />
   </component>
 </project>
